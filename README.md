@@ -8,4 +8,8 @@
 ## For Loop
 * [The For Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html)
 
+
+## Arrays
+[Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+
 ## Resources
