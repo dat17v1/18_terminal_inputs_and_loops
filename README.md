@@ -1,1 +1,1 @@
-# 18_terminal_inputs_and_loops
+# 18 Terminal inputs, loops and Arrays
